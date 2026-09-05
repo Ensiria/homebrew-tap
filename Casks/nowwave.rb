@@ -1,6 +1,6 @@
 cask "nowwave" do
-  version "1.0.3"
-  sha256 "3422960df00c936ba4ca94eebaed5ee00d9df92ef713a71ba8e883af58fede9a"
+  version "1.0.4"
+  sha256 "c3c3bb0763b2c1586ef28f37c3bd7e2cffea4a08389b7ce119c1bae45ae29679"
 
   url "https://nowwave.app/download/NowWave-#{version}.dmg"
   name "NowWave"
